@@ -1,0 +1,11 @@
+# Версії зафіксовані навмисно: в екосистемі LangChain це не перестраховка, а необхідність.
+langchain==1.4.0
+langchain-core==1.6.1
+langchain-anthropic==1.7.1
+langgraph==1.2.11
+anthropic==1.3.0
+httpx==0.28.1
+pydantic==2.13.5
+python-dotenv==1.2.3
+rich==15.0.0
+pytest==9.1.1
